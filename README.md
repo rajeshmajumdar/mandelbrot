@@ -5,7 +5,7 @@ A simple [Rust](https://www.rust-lang.org/) project to create beautiful [mandelb
 ### Pre-requisites
 ---
 1. [Rust](https://www.rust-lang.org/learn/get-started) (Pretty obvious)
-2. [Cargo] (https://www.rust-lang.org/learn/get-started) (It makes it easier to work with rust projects)
+2. [Cargo](https://www.rust-lang.org/learn/get-started) (It makes it easier to work with rust projects)
 
 ### Build
 ---
